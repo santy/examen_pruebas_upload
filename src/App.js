@@ -5,7 +5,7 @@ import Ejercicio2 from './Ejercicio2/Ejercicio2';
 function App() {
   return (
     <div className="App">
-      <h1>Ejercicio3</h1>
+      <Ejercicio2 />
     </div>
   );
 }
